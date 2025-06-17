@@ -1,4 +1,5 @@
-<h3 align="center">I'm a junior at Cornell University majoring in Electrical & Computer Engineering with a minor in CS and AI. I want to build tech that helps people.</h3>
+<h1 align="center">Hi 👋, My name is Akmal!</h1>
+<h3 align="center">I'm a junior at Cornell University majoring in Electrical & Computer Engineering with a minor in CS and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmalrup&label=Profile%20views&color=0e75b6&style=flat" alt="akmalrup" /> </p>
 
