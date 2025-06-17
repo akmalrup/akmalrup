@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmalrup&label=Profile%20views&color=0e75b6&style=flat" alt="akmalrup" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmalrup" alt="akmalrup" /></a> </p>
-
 - 📫 How to reach me **ar2346@cornell.edu**
 
 - ⚡ Fun fact **I love to solve all kinds of cubing puzzles.**
