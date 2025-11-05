@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Akmal 👋</h1>
+<h1 align="center">Hi, my name is Akmal! </h1>
 
-<h3 align="center">Junior studying Electrical & Computer Engineering and Computer Science at Cornell University</h3>
+<h3 align="center">Junior studying ECE & CS at Cornell University</h3>
 
 <p align="center">
 ⚡ <b>Fun fact:</b> I switched to ECE to gain a deeper understanding of the computer stack.  
