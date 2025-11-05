@@ -3,8 +3,8 @@
 <h3 align="center">Junior studying ECE & CS at Cornell University</h3>
 
 <p align="center">
-⚡ <b>Fun fact:</b> I switched to ECE to gain a deeper understanding of the computer stack.  
-Now that I understand how each layer works together, I’m driven to build software that makes a real impact on people’s lives.
+🪫 I switched to ECE to gain a deeper understanding of the computer stack.  
+Now that I understand how each layer works together, I’m driven to build software that makes a real impact on people’s lives 🪫
 </p>
 
 <h3 align="left">Connect with me:</h3>
