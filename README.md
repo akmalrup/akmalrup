@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Akmal! </h1>
 
-<h3 align="center">I'm a Junior studying ECE & CS at Cornell University</h3>
+<h3 align="center"> I'm a Junior studying ECE & CS at Cornell University</h3>
 
 <p align="center">
 🪫 I switched to ECE to gain a deeper understanding of the computer stack.  
@@ -9,8 +9,8 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/akmal-rupasingha-b2704820a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akmalrup" height="30" width="40" />
   </a>
@@ -18,42 +18,34 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 ---
 
-### 🧠 Programming Languages
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/></a>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/></a>
 </p>
 
----
+<hr>
 
-### 🧰 Frameworks, Tools & Libraries
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
+<h3 align="center">Frameworks, Tools & Libraries</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
 </p>
 
----
+<hr>
 
-### ☁️ Platforms & Cloud
-<div align="left">
-  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-    <p align="left" style="flex: 1;">
-      <a href="#"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-    </p>
-    <p align="right" style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true" height="150em" />
-    </p>
-  </div>
-</div>
+<h3 align="center">Platforms & Cloud</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+</p>
