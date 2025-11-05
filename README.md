@@ -9,7 +9,9 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/akmalrup](https://www.linkedin.com/in/akmal-rupasingha-b2704820a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akmalrup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akmal-rupasingha-b2704820a/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akmalrup" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +33,3 @@ Now that I understand how each layer works together, I’m driven to build softw
 <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
 </p>
-
