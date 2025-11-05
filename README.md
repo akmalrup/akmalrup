@@ -20,45 +20,40 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 ### 🧠 Programming Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 💻 IDEs and Editors
+### 🧰 Frameworks, Tools & Libraries
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vim" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=emacs" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
 </p>
 
 ---
 
-### ⚙️ Applications & Platforms
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### ☁️ Platforms & Cloud
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmalrup&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+    <p align="left" style="flex: 1;">
+      <a href="#"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
+    </p>
+    <p align="right" style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true" height="150em" />
+    </p>
+  </div>
 </div>
