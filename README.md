@@ -42,11 +42,11 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 ---
 
-<!-- ===== Platforms & Cloud + Most Used Languages (two-column layout) ===== -->
+<!-- ===== Platforms & Cloud + Most Used Languages (two-column) ===== -->
 <table width="100%">
   <tr>
-    <!-- LEFT COLUMN -->
-    <td width="60%" valign="top">
+    <!-- LEFT: Platforms & Cloud -->
+    <td width="60%" valign="top" align="left">
       <h3 align="left">☁️ Platforms & Cloud</h3>
       <p align="left">
         <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
@@ -55,17 +55,5 @@ Now that I understand how each layer works together, I’m driven to build softw
         <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
       </p>
+      <!-- short hr only under the left column -->
       <hr style="width:80%; border:0.5px solid gray; margin-top:10px; margin-bottom:0;">
-    </td>
-
-    <!-- RIGHT COLUMN -->
-    <td width="40%" valign="middle" align="right">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420"
-        alt="Top languages"
-        height="210"
-      />
-    </td>
-  </tr>
-</table>
-<!-- ===== End of two-column section ===== -->
