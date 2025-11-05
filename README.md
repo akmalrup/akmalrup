@@ -42,25 +42,30 @@ Now that I understand how each layer works together, I’m driven to build softw
 
 ---
 
-<!-- Platforms + Languages Widget Split -->
+<!-- ===== Platforms & Cloud + Most Used Languages (two-column) ===== -->
 <table width="100%">
   <tr>
-    <!-- LEFT: Platforms -->
+    <!-- LEFT: Platforms & Cloud (with its own short hr) -->
     <td width="60%" valign="top">
       <h3 align="left">☁️ Platforms & Cloud</h3>
       <p align="left">
-        <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
-        <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/></a>
-        <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/></a>
-        <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-        <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" /></a>
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" /></a>
+        <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /></a>
       </p>
-      <hr style="width: 80%; border: 0.5px solid gray; margin-top: 10px;">
+      <hr style="width:80%; border:0.5px solid gray; margin-top:10px; margin-bottom:0;">
     </td>
 
-    <!-- RIGHT: Larger Languages Widget -->
+    <!-- RIGHT: Most Used Languages (bigger + right-aligned) -->
     <td width="40%" valign="middle" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" height="200"/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrup&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420"
+        alt="Top languages"
+        height="200"
+      />
     </td>
   </tr>
 </table>
+<!-- ===== end two-column block ===== -->
